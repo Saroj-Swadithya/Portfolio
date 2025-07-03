@@ -11,7 +11,7 @@ export default function Footer() {
       <div className="flex flex-col items-center gap-1">
         <p className="text-darkLavender/80 text-sm md:text-base">
           Made with <span className="text-pink-500">❤️</span> ·
-          <a href="https://buymeacoffee.com/sarojswadil" target="_blank" rel="noopener noreferrer" className="ml-1 hover:text-[#e56e94] transition-colors">Buy me a coffee <span className="text-lg">☕</span></a>
+          <a href="https://buymeacoffee.com/sarojswadithya" target="_blank" rel="noopener noreferrer" className="ml-1 hover:text-[#e56e94] transition-colors">Buy me a coffee <span className="text-lg">☕</span></a>
         </p>  
         <p className="text-darkLavender/60 text-xs md:text-sm mt-1">© 2025 Saroj Swadithya</p>
       </div>
