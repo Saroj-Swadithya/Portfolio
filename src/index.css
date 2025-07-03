@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  font-family: 'DM Sans', Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #E3E4FA 0%, #FFE6E8 100%);
+  background-attachment: fixed;
+  scroll-behavior: smooth;
+}
+
+.icon-gradient svg {
+  fill: currentColor !important;
+}
